@@ -1,0 +1,69 @@
+ /* display: flex;
+  flex-direction: column; */
+ 
+  /* align-items:flex-end; */
+  
+  /* position: sticky; */
+  top: 200px;
+}
+/* Cards Sections  */
+
+
+
+
+
+
+
+
+
+
+.hero {
+    margin-top: 80px;
+    margin-left: 60px;
+    padding: 20px;
+    display: inline-flex;
+
+  }
+  
+  .d_img {
+    width: 400px;
+    height: 507px;
+    flex-shrink: 0;
+    margin-left: 20px;
+    display: inline-flex;
+  }
+  
+  #textarea {
+    width: 800px;
+    height: 507px;
+    flex-shrink: 0;
+    margin-left: 60px;
+    padding-top: 10px;
+    margin-top: -80px;
+    padding-left: 20px;
+    border-radius: 20px;
+    border: 6px solid #fff;
+    background: #e5d8ff;
+    box-shadow: 3px 5px 27px 0px rgba(0, 0, 0, 0.25) inset;
+    color: #6f7373;
+    font-family: DM Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 178.7%;
+    padding-right: 15px; /* 51.823px */
+    display: inline-flex;
+  }
+  
+  /* Social Icons  */
+  .social {
+    flex-direction: column;
+    margin-left: 96%;
+    /* position: sticky; */
+    margin-top: 30px;
+    display: inline-flex;
+  }
+  .s_icon {
+    width: 3.8rem;
+    height: 3.8rem;
+  }
